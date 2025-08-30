@@ -1,4 +1,4 @@
-![Horsle](https://raw.githubusercontent.com/LinusKay/horsle/main/public/img/og_1200x630.png)
+![Horsle](https://raw.githubusercontent.com/LinusKay/horsle/refs/heads/main/public/img/og_1200x630.png)
 
 
 
