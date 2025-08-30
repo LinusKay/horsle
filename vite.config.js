@@ -4,7 +4,7 @@ import { version } from "./package.json";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/",
+  base: "/horsle/",
   plugins: [svelte({
     preprocess: vitePreprocess()
   })],
